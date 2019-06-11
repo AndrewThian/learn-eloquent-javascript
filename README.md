@@ -2,7 +2,7 @@
 
 List of exercises:
 
-Chapter 1:
+Chapter 2:
 
 1. fizzbuzz
 2. chess board
